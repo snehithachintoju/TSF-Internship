@@ -1,4 +1,4 @@
-# TSP-Internship
+# TSF-Internship
 Task 1 : Prediction Using Supervised ML
 Task 2 : Prediction Using Unsupervised ML
 Task 3 : Exploratory Data Analysis-Retail
